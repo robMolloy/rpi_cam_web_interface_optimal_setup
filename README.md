@@ -13,7 +13,7 @@ force_turbo=1
 over_voltage=2
 ```
 
-### Always-on set-up
+## Always-on set-up
 - Change "shedule settings"
 - Change "DayMode" to "All Day"
 - Change "Period Start" to "ca 1"
