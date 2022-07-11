@@ -6,7 +6,7 @@ Follow the installation instructions at https://elinux.org/RPi-Cam-Web-Interface
 ## Increase reliability
 You may find that with the default RPi setup; filming, video conversion and other actions taking place at the same time causes recording to stop. This can be resolved with the following code at the bottom of /boot/config.txt 
 
-### Be aware: this may void warranty
+### Be aware: values below may void warranty
 This is tested and works well on raspberry pi 3, other values may be more appropriate for other models;
 ```
 force_turbo=1
